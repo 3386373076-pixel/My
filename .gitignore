@@ -1,0 +1,26 @@
+﻿# Exclude MinGit tooling
+/Git/
+/MinGit.zip
+
+# Temp files
+*.log
+*.tmp
+git_*.txt
+
+# Windows
+Thumbs.db
+.DS_Store
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Codex
+.codex/
+.agents/
+
+# Blender launcher
+/BlenderLauncher_v2.0.zip
+/blender-launcher/

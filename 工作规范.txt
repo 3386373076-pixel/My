@@ -1,0 +1,2 @@
+所有项目进行，都必须避开C盘使用。
+All projects need to avoid using the C drive.
