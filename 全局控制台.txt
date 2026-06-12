@@ -1,1 +1,3 @@
-对接GitHub
+﻿对接GitHub ✅ (已完成 - 2026-06-12)
+  仓库: https://github.com/3386373076-pixel/My.git
+  本地路径: F:\My\git-repo
