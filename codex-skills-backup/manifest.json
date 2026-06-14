@@ -1,0 +1,90 @@
+﻿[
+    {
+        "name":  "caveman",
+        "path":  "skills/caveman"
+    },
+    {
+        "name":  "diagnose",
+        "path":  "skills/diagnose"
+    },
+    {
+        "name":  "edit-article",
+        "path":  "skills/edit-article"
+    },
+    {
+        "name":  "git-guardrails-claude-code",
+        "path":  "skills/git-guardrails-claude-code"
+    },
+    {
+        "name":  "grill-me",
+        "path":  "skills/grill-me"
+    },
+    {
+        "name":  "grill-with-docs",
+        "path":  "skills/grill-with-docs"
+    },
+    {
+        "name":  "handoff",
+        "path":  "skills/handoff"
+    },
+    {
+        "name":  "improve-codebase-architecture",
+        "path":  "skills/improve-codebase-architecture"
+    },
+    {
+        "name":  "karpathy-guidelines",
+        "path":  "skills/karpathy-guidelines"
+    },
+    {
+        "name":  "migrate-to-shoehorn",
+        "path":  "skills/migrate-to-shoehorn"
+    },
+    {
+        "name":  "obsidian-vault",
+        "path":  "skills/obsidian-vault"
+    },
+    {
+        "name":  "prototype",
+        "path":  "skills/prototype"
+    },
+    {
+        "name":  "scaffold-exercises",
+        "path":  "skills/scaffold-exercises"
+    },
+    {
+        "name":  "setup-matt-pocock-skills",
+        "path":  "skills/setup-matt-pocock-skills"
+    },
+    {
+        "name":  "setup-pre-commit",
+        "path":  "skills/setup-pre-commit"
+    },
+    {
+        "name":  "tdd",
+        "path":  "skills/tdd"
+    },
+    {
+        "name":  "teach",
+        "path":  "skills/teach"
+    },
+    {
+        "name":  "to-issues",
+        "path":  "skills/to-issues"
+    },
+    {
+        "name":  "to-prd",
+        "path":  "skills/to-prd"
+    },
+    {
+        "name":  "triage",
+        "path":  "skills/triage"
+    },
+    {
+        "name":  "write-a-skill",
+        "path":  "skills/write-a-skill"
+    },
+    {
+        "name":  "zoom-out",
+        "path":  "skills/zoom-out"
+    }
+]
